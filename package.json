@@ -1,0 +1,19 @@
+{
+  "name": "jest_basics",
+  "version": "1.0.0",
+  "description": "Learning the basics of jest.",
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "acollierr17 <gamemaniac101@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.10",
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
